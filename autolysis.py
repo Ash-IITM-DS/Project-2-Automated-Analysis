@@ -1,3 +1,16 @@
+# /// script
+# requires-python = ">=3.11"
+# dependencies = [
+#   "pandas",
+#   "numpy",
+#   "seaborn",
+#   "matplotlib",
+#   "scipy",
+#   "scikit-learn",
+#   "requests",
+# ]
+# ///
+
 import os
 import sys
 import pandas as pd
