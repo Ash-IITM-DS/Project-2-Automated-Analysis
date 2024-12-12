@@ -8,6 +8,7 @@
 #   "scipy",
 #   "scikit-learn",
 #   "requests",
+#   "ipykernel",
 # ]
 # ///
 
